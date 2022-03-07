@@ -5,10 +5,10 @@ We are a small company that develops apps and games with the intention of making
 
 ### Download our apps and games
 
-Most of our products are available for download from the Google Play Store, visit the link: https://play.google.com/store/apps/dev?id=8616345440692941449
+Most of our products are available for download from the Google Play Store,<a href="https://play.google.com/store/apps/dev?id=8616345440692941449"> click here to visit our page.</a>
 
 ### Support or Contact
 
 Do you have any questions about our apps or would you like to request a quote for an app or game for your company?
 
-Send us an email: treestudiosbrasil@gmail.com
+Send us an email: <treestudiosbrasil@gmail.com>
