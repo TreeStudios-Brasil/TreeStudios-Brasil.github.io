@@ -9,6 +9,7 @@ Gamelist collects and stores certain personal information provided by users to o
 Name and email address for account creation.
 Game data added by users, such as title, platform, genre, status, last played, completion date, physical copy indication, review, and cover image.
 App usage data, such as interactions and preferences.
+
 2. Data Usage
 The collected data is used to:
 
@@ -16,6 +17,7 @@ Create and manage user accounts.
 Sync and save game data to the cloud.
 Improve app functionality and personalize user experience.
 Perform automatic backups and allow data export.
+
 3. Data Sharing
 We do not share personal information with third parties, except when necessary to:
 
@@ -54,6 +56,7 @@ O Gamelist coleta e armazena algumas informações pessoais fornecidas pelos usu
 Nome e endereço de e-mail para a criação de contas.
 Dados de jogos adicionados, como título, plataforma, gênero, status, última vez jogado, data zerado, indicação de cópia física, review e imagem de capa.
 Dados de uso do aplicativo, como interações e preferências.
+
 2. Utilização de Dados
 Os dados coletados são utilizados para:
 
@@ -61,6 +64,7 @@ Criar e gerenciar contas de usuário.
 Sincronizar e salvar dados de jogos na nuvem.
 Melhorar a funcionalidade do aplicativo e personalizar a experiência do usuário.
 Realizar backups automáticos e permitir a exportação de dados.
+
 3. Compartilhamento de Dados
 Não compartilhamos informações pessoais com terceiros, exceto quando necessário para:
 
